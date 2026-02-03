@@ -372,10 +372,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 ---
 
 ## 📬 Contact
-
-- **Author**: Swaleha Parveen and Mohammed Arsalan
-- **LinkedIn**: https://www.linkedin.com/in/swaleha/
 - **Book**: AI Safety and Red Teaming
+- **Author**:    Mohammed Arsalan (https://www.linkedin.com/in/sallu-mandya/) and Swaleha Parveen (https://www.linkedin.com/in/swaleha/)
+
 
 ---
 
